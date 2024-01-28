@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row-col{
+    position: relative;
+}
+.f-size{
+    font-weight: 700px;
+    font-size: 36px;
+    line-height: 42.19px;
+
+}
+.size{
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;  
+  }
+.back{
+    background-image: url(./image\ 1\(1\).png);
+    width: 1214px;
+    height: 545px;
+    border-radius: 45px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-img{
+    background: linear-gradient(90deg, rgba(69,204,231,0.9865079820990896) 34%, rgba(242,233,233,0.4094771697741597) 56%, rgba(96,155,149,0) 59%);     width: 1214px;
+    height: 545px;
+    border-radius: 45px;
+}
+.p-text{
+    font-family: Roboto;
+font-size: 64px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 80px;
+}
+.t-text{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -30px;
+}
+.s-text{
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 17.58px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -20px;
+
+}
+.margin-up{
+    margin-top: -55px;
+}
+.button-size{
+width: 157px;
+height: 29px; 
+padding-top: -50px;
+text-align: center;
+}
+.new-text{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+}
+.card-1{
+    width: 290px;
+    height: 330px;
+    margin-left: 150px;
+}
+.card-2{
+    width: 290px;
+    height: 330px;
+   margin-left: 62px;
+}
+.card-3{
+    width: 290px;
+    height: 330px;
+    margin-left: -15px;
+}
+.back-2{
+    width: 1210px;
+height: 279px;
+border-radius: 20px;
+ background: linear-gradient(180deg, rgba(34, 255, 255, 0.5) 20.13%, rgba(34, 255, 255, 0) 100%);
+margin-top: -170px;
+}
+.deals-text{
+
+    font-size: 25px;
+line-height: 50px;
+}
+.last-img{
+   width: 1200px;
+   height: 200px; 
+}
+.last-text{
+    font-size: 35px;
+    font-weight: 600;
+}
